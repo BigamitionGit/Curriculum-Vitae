@@ -12,25 +12,36 @@
 
 ## スキル
 
-### Swift
-- Swift2からSwift4.2まで日常的に利用。
-- RxSwiftは1年の実務経験あり。趣味プロダクトでも利用。
+### iOSアプリ開発
 
-### Kotlin
-- Kotlin1.1からKotlin1.2まで日常的に利用。
-- RxJava、RxKotlinは趣味プロダクトで利用。
+- Swift  
+Swift2からSwift4.2まで日常的に利用。  
+RxSwiftは1年の実務経験あり。趣味プロダクトでも利用。  
 
-### Java
-- 簡単なAndroidアプリサンプル作成に利用。
+- Objective-C  
+1年半の実務経験あり。
 
-### Objective-C
-- 1年半の実務経験あり。
+### Androidアプリ開発
 
-### C
-- 基礎レベル
+- Kotlin  
+Kotlin1.1からKotlin1.2まで日常的に利用。  
+RxJava、RxKotlinは趣味プロダクトで利用。  
 
-### PHP
-- 簡単なWebアプリケーション開発に利用。
+- Java  
+簡単なAndroidアプリサンプル開発に利用。  
+
+### Webアプリ開発  
+
+- PHP  
+簡単なWebアプリケーション開発に利用。
+
+### 機械学習  
+
+- 学習アルゴリズム  
+最小二乗法、ロジスティック回帰、サポートベクターマシン、クラスタリング、主成分分析の基礎知識。  
+
+- Frameworks  
+Swift for Tensorflow、Tensorflow、Pytorchの基礎知識。  
 
 ## 職務経歴(現職)
 ### 株式会社キャパ(2015/08~)
