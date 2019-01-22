@@ -3,7 +3,8 @@
 ## 基本情報
 
 - 氏名：細田大志
-- Github：[BigamitionGit](https://github.com/BigamitionGit)
+- Github：[BigamitionGit](https://github.com/BigamitionGit)  
+- Qiita: [Bigamition](https://qiita.com/Bigamition)
 
 ## 職務経歴(概要)
 
